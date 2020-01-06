@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Sweater">
+	<g>
+		
+			<path fill="#E55D59" stroke="#494949" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M42.563,52.502c0-17.716,0.398-25.735,0.398-25.735l7.355,27.827h6.937L46.918,15.385c-2.227-2.923-3.709-3.467-3.709-3.467
+			l-7.227-2.97c-2.072,2.727-5.479,4.65-5.479,4.65h-0.268c0,0-3.431-1.924-5.476-4.65l-7.226,2.97c0,0-1.482,0.544-3.712,3.467
+			L4.989,54.593h6.765l6.033-27.827c0,0,0.395,8.019,0.395,25.735h1.946v2.425h20.421v-2.425L42.563,52.502L42.563,52.502z"/>
+	</g>
+	
+		<path fill="#72CACA" stroke="#494949" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M22.303,9.96l2.459-1.011c2.045,2.727,5.476,4.65,5.476,4.65h0.268c0,0,3.405-1.924,5.479-4.65l2.473,1.016
+		c-2.729,3.823-7.897,6.783-7.897,6.783h-0.373C30.185,16.748,24.933,13.872,22.303,9.96z"/>
+	
+		<polygon fill="#72CACA" stroke="#494949" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		10.843,54.593 6.424,54.593 5.931,56.814 10.386,56.814 	"/>
+	
+		<polygon fill="#72CACA" stroke="#494949" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		51.512,54.593 55.932,54.593 56.423,56.814 51.971,56.814 	"/>
+	
+		<rect x="20.128" y="52.502" fill="#72CACA" stroke="#494949" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="20.421" height="2.425"/>
+</g>
+</svg>
